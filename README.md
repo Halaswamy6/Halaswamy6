@@ -1,19 +1,25 @@
 ## Hi there 👋
+🧑‍💻 About Me
 
-👋 Hi there! I’m a passionate Computer Engineering graduate with a strong interest in Java-based software development and web technologies.
+🎓 Engineering graduate passionate about coding and web development.
+💻 Skilled in Java, JSP/Servlets, MySQL, and HTML/CSS.
 
-💻 I’ve built several real-world projects, including:
+🚀 Built real-world projects like:
+💰 Console-based Money Transfer System with transaction management
+🏧 ATM Simulation Application
+🎓 Student Login & Course Enrollment Portal
+🌱 Also secured 1st place for my Smart Hydroponic Irrigation System project in college.
+⚙️ Constantly learning, building, and improving my development skills.
 
-A Console-based Money Transfer System with transaction management
+🛠️ Tech Stack
 
-An ATM Simulation Application
-
-A Student Login and Course Enrollment Portal using JSP, Servlets, and MySQL
-
-🌐 I also hold a Web Development Certification and enjoy building user-focused applications that blend clean design with strong backend logic.
-
-⚙️ Beyond software, I have hands-on experience in electronics and IoT, having secured 1st place in my college for the Smart Hydroponic Irrigation System project.
-
-🚀 I’m always eager to learn new technologies, collaborate on open-source projects, and grow as a full-stack developer.
+Languages: Java, SQL, HTML, CSS, JavaScript
+Backend: JSP, Servlets, JDBC, MySQL, Hibernate, Spring
+Tools: Eclipse, VS Code, Git, GitHub
+Concepts: OOP, Web Development, Transaction Management
 
 📫 Let’s connect: halaswamyyadav6@gmail.com
+  
+
+💡 “Code. Build. Learn. Repeat.”
+ 
