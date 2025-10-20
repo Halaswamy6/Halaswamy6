@@ -5,8 +5,8 @@
 💻 Skilled in Java, JSP/Servlets, MySQL, and HTML/CSS.
 
 🚀 Built real-world projects like:
-💰 Console-based Money Transfer System with transaction management
-🏧 ATM Simulation Application
+💰 Console-based Money Transfer System with transaction management 
+🏧 ATM Simulation Application 
 🎓 Student Login & Course Enrollment Portal
 🌱 Also secured 1st place for my Smart Hydroponic Irrigation System project in college.
 ⚙️ Constantly learning, building, and improving my development skills.
