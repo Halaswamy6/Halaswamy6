@@ -1,16 +1,19 @@
 ## Hi there 👋
 
-<!--
-**Halaswamy6/Halaswamy6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👋 Hi there! I’m a passionate Computer Engineering graduate with a strong interest in Java-based software development and web technologies.
 
-Here are some ideas to get you started:
+💻 I’ve built several real-world projects, including:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+A Console-based Money Transfer System with transaction management
+
+An ATM Simulation Application
+
+A Student Login and Course Enrollment Portal using JSP, Servlets, and MySQL
+
+🌐 I also hold a Web Development Certification and enjoy building user-focused applications that blend clean design with strong backend logic.
+
+⚙️ Beyond software, I have hands-on experience in electronics and IoT, having secured 1st place in my college for the Smart Hydroponic Irrigation System project.
+
+🚀 I’m always eager to learn new technologies, collaborate on open-source projects, and grow as a full-stack developer.
+
+📫 Let’s connect: halaswamyyadav6@gmail.com
